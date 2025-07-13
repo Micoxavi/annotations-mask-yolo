@@ -1,4 +1,4 @@
-# annotations-mask-yolo
+# Annotations-mask-yolo
 
 **PEP 8-compliant multiregion segmentation tool with YOLO export.**
 
